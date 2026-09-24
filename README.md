@@ -1,4 +1,4 @@
-# Tugas Pertemuan 1 — Halaman Login Flutter (Neo Brutalism)
+# Tugas Pertemuan 1 — Halaman Login Flutter (dengan tema Neo Brutalism)
 
 Halaman antarmuka **Login** untuk aplikasi Flutter, dibuat dengan gaya visual
 **neo brutalism** berpalet biru. Sesuai ketentuan tugas, halaman ini **statis**:
